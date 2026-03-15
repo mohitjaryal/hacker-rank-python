@@ -1,4 +1,4 @@
-#!/b
+#!/
 import math
 import os
 import random
