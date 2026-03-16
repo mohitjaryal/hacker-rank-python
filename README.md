@@ -73,4 +73,4 @@ If you find this repository useful, feel free to **star the repository**.
 ## 👨‍💻 Author
 
 Maintained by someone who is learning and improving Python step by step.
-[mohitjaryal.online](https://mohitjaryal.online/)
+[mohitjaryal.online](https://mohitjaryal.online)
