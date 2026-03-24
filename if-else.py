@@ -1,4 +1,4 @@
-# if else
+# if else statement
 import math
 import os
 import random
